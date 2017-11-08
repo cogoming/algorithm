@@ -1,7 +1,7 @@
 package algorithm;
 
 /**
- * 算法-枚举法
+ * 算法-枚举法 
  * 题目：
  * 算法描述题目
  * @author astart
